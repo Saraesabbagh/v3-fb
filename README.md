@@ -4,10 +4,13 @@ This project is hosted live at the following link https://v3-fb.vercel.app/
 
 ## Available videos
 
-A quick walk through video of the app can be watched here
+A quick walk through video of the app can be watched here;
 https://drive.google.com/file/d/1ULL0gm-PSJkErkfQj-PuROwDii872k4G/view
 
-[<img src="https://drive.google.com/file/d/1ULL0gm-PSJkErkfQj-PuROwDii872k4G/view" width="50%">](https://drive.google.com/file/d/1ULL0gm-PSJkErkfQj-PuROwDii872k4G/view) "Facebook Clone for filming")
+or here
+
+https://github.com/Saraesabbagh/v3-fb/assets/91126259/5152ced9-b213-4997-90b5-8aa74cbabaac
+
 
 ### Project build
 
