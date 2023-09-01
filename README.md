@@ -3,6 +3,13 @@
 
 This project is hosted live at the following link https://v3-fb.vercel.app/
 
+## Project Details
+This was built to be used as part of a short film. The client was not able to use facebook for obvious reasons but the storyline was around an older lady discovering the anonymity of the internet. The Story focuses on her becoming a troll over time. For this they needed shots of the screen as she commented on various posts much like how facebook is used. 
+
+This was an interesting project to work on as the "User" in this case was in fact the director rather than the "Signing in User" as it were. So thinking about the build was much more about how it was going to function in real time and look on the screen so the filming would be sleak and add impact to the story. Thinking about the User in this way also helped me to think of ideas that could assist the filming and then have fun building, for example I was able to integrate a 'dark mode' that was used as part of the filming to help with a more 'dark and moody' feel. 
+
+We are still awaiting the edit and release but this will be the first time i will be credited for a personal tech build an have it filmed in this way. Never the less it was a fun challenge to get my teeth into and i'm very proud of the result. 
+
 ## Available videos
 
 A quick walk through video of the app can be watched here;
