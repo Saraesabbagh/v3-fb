@@ -10,6 +10,14 @@ This was an interesting project to work on as the "User" in this case was in fac
 
 We are still awaiting the edit and release but this will be the first time i will be credited for a personal tech build an have it filmed in this way. Never the less it was a fun challenge to get my teeth into and i'm very proud of the result. 
 
+# Favourite Features
+- Email Verification of each user.
+- Log in security- Password sensitivity and Encrypted in the database. 
+- Mongo DB deployed and live database.
+- Reactions to each post.
+- Image picker/ uploader.
+- Dark/Light mode
+
 ## Available videos
 
 A quick walk through video of the app can be watched here;
